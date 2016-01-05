@@ -1,0 +1,6 @@
+E:\xamarin\Picasso\Picasso\bin\Debug\Picasso.dll
+E:\xamarin\Picasso\Picasso\bin\Debug\Picasso.pdb
+E:\xamarin\Picasso\Picasso\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\xamarin\Picasso\Picasso\obj\Debug\Picasso.dll
+E:\xamarin\Picasso\Picasso\obj\Debug\Picasso.pdb
+E:\xamarin\Picasso\Picasso\obj\Debug\Picasso.csprojResolveAssemblyReference.cache

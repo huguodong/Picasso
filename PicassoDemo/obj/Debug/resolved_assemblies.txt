@@ -1,0 +1,2 @@
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\PicassoDemo.dll
+E:\xamarin\Picasso\Picasso\bin\Debug\Picasso.dll

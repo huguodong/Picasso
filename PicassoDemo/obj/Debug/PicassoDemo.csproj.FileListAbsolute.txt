@@ -1,0 +1,17 @@
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\PicassoDemo.dll
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\PicassoDemo.pdb
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\PicassoDemo.dll.mdb
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\PicassoDemo.PicassoDemo.apk
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\PicassoDemo.PicassoDemo-Signed.apk
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\Picasso.dll
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\Picasso.pdb
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\PicassoDemo.csprojResolveAssemblyReference.cache
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\PicassoDemo.dll
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\PicassoDemo.pdb
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\android\bin\PicassoDemo.PicassoDemo.apk
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\res\layout\main.xml
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\res\values\strings.xml
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\res\drawable\icon.png
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\R.cs.flag
+E:\xamarin\Picasso\PicassoDemo\obj\Debug\uploadflags.txt
+E:\xamarin\Picasso\PicassoDemo\bin\Debug\Picasso.dll.mdb
